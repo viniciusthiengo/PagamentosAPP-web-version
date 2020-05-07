@@ -12,7 +12,7 @@ O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.
 
 ### Lado Android
 
-O projeto Web deste repositório é parte de um algoritmo completo de Checkout Transparente que também o seu lado Android.
+O projeto Web deste repositório é parte de um algoritmo completo de Checkout Transparente que também tem o seu lado Android.
 
 Esse lado Android você pode estar acessando no repositório GitHub: [PagamentosApp (Java Android)](https://github.com/viniciusthiengo/PagamentosAPP).
 
